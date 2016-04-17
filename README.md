@@ -1,6 +1,8 @@
 # epic-discussions
 > Discussões épicas retiradas do Fórum do repositório Front-End Brasil
 
+[![Build Status](https://travis-ci.org/danilovaz/epic-discussions.svg?branch=master)](https://travis-ci.org/danilovaz/epic-discussions)
+
 Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.com/frontendbr/forum) que **eu** considero de relevância e importância tê-los organizados
 
 ## Discussões
