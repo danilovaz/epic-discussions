@@ -15,6 +15,10 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 - [Qual Framework CSS estão usando?](https://github.com/frontendbr/forum/issues/16)
 - [Grids com ou sem flexbox?](https://github.com/frontendbr/forum/issues/13)
 
+##### Gerenciador de Pacotes
+
+- [Bower ou NPM?](https://github.com/frontendbr/forum/issues/17)
+
 
 ## License
 
