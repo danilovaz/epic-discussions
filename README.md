@@ -10,6 +10,10 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 #### 2016
 ---
 
+##### Carreira
+
+- [Que front você é?](https://github.com/frontendbr/forum/issues/32)
+
 ##### CSS
 
 - [Aprendendo sobre flexbox](https://github.com/frontendbr/forum/issues/80)
