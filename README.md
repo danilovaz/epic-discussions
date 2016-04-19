@@ -14,6 +14,7 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 
 - [Aprendendo sobre flexbox](https://github.com/frontendbr/forum/issues/80)
 - [Grids com ou sem flexbox?](https://github.com/frontendbr/forum/issues/13)
+- [Metodologias CSS](https://github.com/frontendbr/forum/issues/35)
 - [Qual Framework CSS estão usando?](https://github.com/frontendbr/forum/issues/16)
 - [Quando usar Flexbox e quando usar CSS Grid Layout?](https://github.com/frontendbr/forum/issues/105)
 
