@@ -16,6 +16,10 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 - [Grids com ou sem flexbox?](https://github.com/frontendbr/forum/issues/13)
 - [Aprendendo sobre flexbox](https://github.com/frontendbr/forum/issues/80)
 
+##### Geral
+
+- [Assuntos para eventos](https://github.com/frontendbr/forum/issues/94)
+
 ##### Gerenciador de Pacotes
 
 - [Bower ou NPM?](https://github.com/frontendbr/forum/issues/17)
