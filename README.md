@@ -34,6 +34,9 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 
 - [Bower ou NPM?](https://github.com/frontendbr/forum/issues/17)
 
+##### Workflow
+
+- [Estrutura de diretórios](https://github.com/frontendbr/forum/issues/89)
 
 ## License
 
