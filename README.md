@@ -12,6 +12,7 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 
 ##### Carreira
 
+- [Melhores cidades para se trabalhar](https://github.com/frontendbr/forum/issues/36)
 - [Que front você é?](https://github.com/frontendbr/forum/issues/32)
 
 ##### CSS
