@@ -42,4 +42,4 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 
 ## License
 
-[MIT License](http://danilovaz.mit-license.org/) © Danilo Vaz
+[MIT License](https://danilovaz.mit-license.org/) © Danilo Vaz
