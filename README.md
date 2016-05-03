@@ -39,6 +39,7 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 ##### Workflow
 
 - [Estrutura de diretórios](https://github.com/frontendbr/forum/issues/89)
+- [Front-End Acoplado ou Desacoplado](https://github.com/frontendbr/forum/issues/101)
 
 ## License
 
