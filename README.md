@@ -28,9 +28,6 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 
 - [AngularJS agora é ruim?](https://github.com/frontendbr/forum/issues/174)
 
-##### Performance
-
-- [Testes de performance](https://github.com/frontendbr/forum/issues/43)
 
 ##### Geral
 
@@ -39,6 +36,10 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 ##### Gerenciador de Pacotes
 
 - [Bower ou NPM?](https://github.com/frontendbr/forum/issues/17)
+
+##### Performance
+
+- [Testes de performance](https://github.com/frontendbr/forum/issues/43)
 
 ##### Workflow
 
