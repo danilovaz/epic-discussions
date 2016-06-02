@@ -24,6 +24,10 @@ Lista de discussões retiradas do Fórum do [Front-End Brasil](https://github.co
 - [Qual Framework CSS estão usando?](https://github.com/frontendbr/forum/issues/16)
 - [Quando usar Flexbox e quando usar CSS Grid Layout?](https://github.com/frontendbr/forum/issues/105)
 
+##### Frameworks JavaScript
+
+- [AngularJS agora é ruim?](https://github.com/frontendbr/forum/issues/174)
+
 ##### Performance
 
 - [Testes de performance](https://github.com/frontendbr/forum/issues/43)
